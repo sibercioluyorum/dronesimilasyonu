@@ -1,0 +1,3 @@
+"""
+Drone teslimat sistemi paketi
+"""

@@ -1,0 +1,26 @@
+{
+  "scenario_1": {
+    "scenario": 1,
+    "total_deliveries": 20,
+    "completed_deliveries": 1,
+    "completion_rate": 5.0,
+    "total_distance_meters": 11424.781319480397,
+    "total_energy_mah": 422.71690882077473,
+    "avg_energy_per_delivery_mah": 422.71690882077473,
+    "rule_violations": 0,
+    "execution_time_seconds": 9.152483701705933,
+    "fitness_score": 7.728309117922521
+  },
+  "scenario_2": {
+    "scenario": 2,
+    "total_deliveries": 50,
+    "completed_deliveries": 1,
+    "completion_rate": 2.0,
+    "total_distance_meters": 21634.441671591983,
+    "total_energy_mah": 1060.0876419080073,
+    "avg_energy_per_delivery_mah": 1060.0876419080073,
+    "rule_violations": 0,
+    "execution_time_seconds": 20.800206661224365,
+    "fitness_score": -56.00876419080073
+  }
+}
